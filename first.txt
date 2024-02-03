@@ -1,2 +1,4 @@
 adding first text
 adding second line via eclip
+adding first text
+adding second line directly..
