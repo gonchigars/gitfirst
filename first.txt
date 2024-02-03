@@ -1,1 +1,2 @@
 adding first text
+adding second line directly..
